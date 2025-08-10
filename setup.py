@@ -4,6 +4,8 @@ setup(
     name="mtu_diagnostics",
     version="0.1.0",
     description="Network MTU size detection and diagnostic tool",
+    author="Randy Fussell",
+    author_email="randy@networksandchill.com",
     packages=find_packages(),
     install_requires=[
         "psutil",
