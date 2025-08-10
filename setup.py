@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="mtu-diagnostics",
+    name="mtu_diagnostics",
     version="0.1.0",
     description="Network MTU size detection and diagnostic tool",
     author="Your Name",

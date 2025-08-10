@@ -14,8 +14,8 @@ A Python command-line tool for detecting and diagnosing Maximum Transmission Uni
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/mtu-diagnostics.git
-cd mtu-diagnostics
+git clone https://github.com/networksandchill/mtu_diagnostics.git
+cd mtu_diagnostics
 
 # Install dependencies
 pip install -r requirements.txt
